@@ -1,1 +1,1 @@
-# Two_Stage_Opamp_45nm
+# Design of Two-Stage Operational Amplifier 45nm CMOS Process in Cadence Virtuoso
